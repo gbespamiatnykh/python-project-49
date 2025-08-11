@@ -13,3 +13,5 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+
+[![asciicast](https://asciinema.org/a/XhnJ2AWtBx2Y1TDxNB5xTmxi7.svg)](https://asciinema.org/a/XhnJ2AWtBx2Y1TDxNB5xTmxi7)
