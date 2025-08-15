@@ -14,5 +14,7 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
 
-[![asciicast](https://asciinema.org/a/XhnJ2AWtBx2Y1TDxNB5xTmxi7.svg)](https://asciinema.org/a/XhnJ2AWtBx2Y1TDxNB5xTmxi7)
-[![asciicast](https://asciinema.org/a/CVGAvAHxIrMC3TTQy4R9EGEnj.svg)](https://asciinema.org/a/CVGAvAHxIrMC3TTQy4R9EGEnj)
+[![asciicast](https://asciinema.org/a/x5KVoIx59V4polw1d9PxlUT3o.svg)](https://asciinema.org/a/x5KVoIx59V4polw1d9PxlUT3o)
+[![asciicast](https://asciinema.org/a/GgUENSCXAct7tcHUOLNYkEnal.svg)](https://asciinema.org/a/GgUENSCXAct7tcHUOLNYkEnal)
+[![asciicast](https://asciinema.org/a/GJUylBJQn6ZD7C0y3D2nmgvZJ.svg)](https://asciinema.org/a/GJUylBJQn6ZD7C0y3D2nmgvZJ)
+[![asciicast](https://asciinema.org/a/0uoegM4B0XdEXatmhZkxpx4aZ.svg)](https://asciinema.org/a/0uoegM4B0XdEXatmhZkxpx4aZ)
