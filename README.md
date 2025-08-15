@@ -15,3 +15,4 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
 
 [![asciicast](https://asciinema.org/a/XhnJ2AWtBx2Y1TDxNB5xTmxi7.svg)](https://asciinema.org/a/XhnJ2AWtBx2Y1TDxNB5xTmxi7)
+[![asciicast](https://asciinema.org/a/CVGAvAHxIrMC3TTQy4R9EGEnj.svg)](https://asciinema.org/a/CVGAvAHxIrMC3TTQy4R9EGEnj)
