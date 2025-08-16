@@ -3,7 +3,7 @@ from random import choice, randint
 from brain_games.constants import MATH_SIGNS, MAX_NUMBER, MIN_NUMBER
 
 
-def show_discription() -> None:
+def show_description() -> None:
     print('What is the result of the expression?')
 
 

@@ -3,7 +3,7 @@ import prompt
 from brain_games.constants import ROUND_COUNT
 
 
-def greeting() -> str:
+def welcome_user() -> str:
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}!")
@@ -11,8 +11,8 @@ def greeting() -> str:
 
 
 def start_game(game: callable) -> None:
-    name = greeting()
-    game.show_discription()
+    name = welcome_user()
+    game.show_description()
     for _ in range(ROUND_COUNT):
         question, correct_answer = game.generate_question_answer()
         print(f'Question: {question}')

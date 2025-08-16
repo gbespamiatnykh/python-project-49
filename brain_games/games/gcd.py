@@ -3,7 +3,7 @@ from random import randint
 from brain_games.constants import MAX_NUMBER, MIN_NUMBER
 
 
-def show_discription() -> None:
+def show_description() -> None:
     print("Find the greatest common divisor of given numbers.")
 
 

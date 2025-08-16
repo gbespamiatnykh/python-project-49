@@ -9,7 +9,7 @@ from brain_games.constants import (
 )
 
 
-def show_discription() -> None:
+def show_description() -> None:
     print("What number is missing in the progression?")
 
 
