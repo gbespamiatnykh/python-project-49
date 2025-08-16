@@ -10,7 +10,7 @@ from brain_games.constants import (
 
 
 def show_discription() -> None:
-    print("Find the greatest common divisor of given numbers.")
+    print("What number is missing in the progression?")
 
 
 def create_progression(start: int, step: int, length: int) -> list:
