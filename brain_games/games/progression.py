@@ -1,12 +1,10 @@
 from random import randint
 
-from brain_games.constants import (
-    MAX_NUMBER,
-    MAX_PROGRESSION_LENGTH,
-    MAX_STEP,
-    MIN_NUMBER,
-    MIN_PROGRESSION_LENGTH,
-)
+from brain_games.constants import MAX_NUMBER, MIN_NUMBER
+
+MAX_STEP = 10
+MAX_PROGRESSION_LENGTH = 10
+MIN_PROGRESSION_LENGTH = 5
 
 
 def show_description() -> None:

@@ -1,6 +1,6 @@
 import prompt
 
-from brain_games.constants import ROUND_COUNT
+ROUND_COUNT = 3
 
 
 def welcome_user() -> str:

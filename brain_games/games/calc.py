@@ -1,6 +1,8 @@
 from random import choice, randint
 
-from brain_games.constants import MATH_SIGNS, MAX_NUMBER, MIN_NUMBER
+from brain_games.constants import MAX_NUMBER, MIN_NUMBER
+
+MATH_SIGNS = ["+", "-", "*"]
 
 
 def show_description() -> None:
