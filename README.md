@@ -7,6 +7,7 @@ Python-based games that challenge your mind and develop arithmetic and logic ski
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
 
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
