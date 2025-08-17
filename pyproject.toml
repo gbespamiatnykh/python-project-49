@@ -1,7 +1,10 @@
 [project]
+authors = [
+    { name = "Georgy Bespamiatnykh" },
+]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python-based games that challenge your mind and develop arithmetic and logic skills."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
