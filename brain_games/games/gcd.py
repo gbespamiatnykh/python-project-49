@@ -1,6 +1,6 @@
 from random import randint
 
-from brain_games.constants import MAX_NUMBER, MIN_NUMBER
+from brain_games.scripts.constants import MAX_NUMBER, MIN_NUMBER
 
 
 def show_description() -> None:

@@ -1,9 +1,11 @@
 import math
 from random import randint
 
-from brain_games.constants import MAX_NUMBER, MIN_NUMBER
-
-MIN_PRIME_NUMBER = 2
+from brain_games.scripts.constants import (
+    MAX_NUMBER,
+    MIN_NUMBER,
+    MIN_PRIME_NUMBER,
+)
 
 
 def show_description() -> None:
