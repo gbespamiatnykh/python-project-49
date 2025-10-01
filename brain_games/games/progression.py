@@ -16,8 +16,8 @@ def show_description() -> None:
 def create_progression(start: int, step: int, length: int) -> list:
     progression = []
     for index in range(length):
-        currentElement = start + index * step
-        progression.append(str(currentElement))
+        current_element = start + index * step
+        progression.append(str(current_element))
     return progression
 
 
