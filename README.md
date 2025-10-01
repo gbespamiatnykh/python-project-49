@@ -4,19 +4,19 @@ Python-based games that challenge your mind and develop arithmetic and logic ski
 [![Actions Status](https://github.com/georgebespam/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/georgebespam/python-project-49/actions)
 
 ### SonarQube badges
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-49)
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-49)
 
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-49&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-49)
 
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-49)
 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-49)
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-49)
 
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=georgebespam_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=georgebespam_python-project-49)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-49)
 
 ## Requirements
 - Python >= 3.12
