@@ -19,5 +19,5 @@ def generate_question_answer() -> tuple[str, str]:
         randint(MIN_NUMBER, MAX_NUMBER),
     )
     answer = calculate_gcd(number1, number2)
-    question = f'{number1} {number2}'
+    question = f"{number1} {number2}"
     return question, str(answer)

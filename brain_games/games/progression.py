@@ -22,15 +22,15 @@ def create_progression(start: int, step: int, length: int) -> list:
 
 
 def hide_number(progression: list, index: int) -> str:
-    progression[index] = '..'
-    return ' '.join(progression)
+    progression[index] = ".."
+    return " ".join(progression)
 
 
 def generate_question_answer() -> tuple[str, str]:
     start, step, length = (
         randint(MIN_NUMBER, MAX_NUMBER),
         randint(MIN_NUMBER, MAX_STEP),
-        randint(MIN_PROGRESSION_LENGTH, MAX_PROGRESSION_LENGTH)
+        randint(MIN_PROGRESSION_LENGTH, MAX_PROGRESSION_LENGTH),
     )
     progression = create_progression(start, step, length)
     hidden_number_index = randint(0, length - 1)

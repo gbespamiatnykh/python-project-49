@@ -15,7 +15,7 @@ def start_game(game: callable) -> None:
     game.show_description()
     for _ in range(ROUND_COUNT):
         question, correct_answer = game.generate_question_answer()
-        print(f'Question: {question}')
+        print(f"Question: {question}")
         user_answer = prompt.string("Your answer: ")
         if correct_answer == user_answer:
             print("Correct!")
